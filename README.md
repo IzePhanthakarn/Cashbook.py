@@ -1,2 +1,2 @@
 # PythonProject
-This im my Python project
+This is my Python project
